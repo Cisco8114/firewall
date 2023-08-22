@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Stop The Resellers",
+		"themeColor": "#DB6574",
+		"logoUrl": "https://stoptheresellers.com/assets/images/logo.png",
+		"active": true,
+		"requestUrl": "https://stoptheresellers.com/api/v1/checkUser/",
+		"method": "get",
+		"appealLink": "https://stoptheresellers.com",
+		"otherData": {}
+	},
+	{
+		"name": "StrongerTogether",
+		"themeColor": "#FE3A06",
+		"logoUrl": "https://strongertogether.network/static/img/big-logo.png",
+		"active": true,
+		"requestUrl": "https://strongertogether.network/api/v1/firewallgg/checkuser/",
+		"method": "get",
+		"appealLink": "https://strongertogether.network",
+		"otherData": {}
+	},
+	{	
+		"name": "SpeedBans",
+		"themeColor": "#0000FF",
+		"logoUrl": "https://i.imgur.com/yOttfRC.png",
+		"active": true,
+		"requestUrl": "https://speedbans.xyz/firewallgg/checkuser/",
+		"method": "get",
+		"appealLink": "https://speedbans.xyz/appeal",
+		"otherData": {}
+	}
+]
