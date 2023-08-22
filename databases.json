@@ -28,5 +28,15 @@
 		"method": "get",
 		"appealLink": "https://speedbans.xyz/appeal",
 		"otherData": {}
+	},
+	{	
+		"name": "Cisco Ban Database",
+		"themeColor": "#0000FF",
+		"logoUrl": "https://imgur.com/6P1UYeq.png",
+		"active": true,
+		"requestUrl": "https://bans.ciscomodifications.com/firewallgg/checkuser/",
+		"method": "get",
+		"appealLink": "https://bans.ciscomodifications.com/appeal",
+		"otherData": {}
 	}
 ]
