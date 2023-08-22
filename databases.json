@@ -34,7 +34,7 @@
 		"themeColor": "#0000FF",
 		"logoUrl": "https://imgur.com/6P1UYeq.png",
 		"active": true,
-		"requestUrl": "https://bans.ciscomodifications.com/api/v1/checkUser/",
+		"requestUrl": "https://bans.ciscomodifications.com/api/v1/firewallgg/checkuser/",
 		"method": "get",
 		"appealLink": "https://bans.ciscomodifications.com/appeal",
 		"otherData": {}
